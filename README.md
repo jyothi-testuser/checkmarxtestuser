@@ -238,6 +238,10 @@ or Command line argument `--github.token=XXXXXXX`
 **Jira Custom Fields**
 * *type*:
   * static: Used for static values (specifically requires jira-default-value to be provided)
+
+
+
+#################################
   * cx: Used to map specific Checkmarx Custom Field value
   * result: Used to map known values from checkmarx results or repository/scan request details.  See Result values below. |
 
