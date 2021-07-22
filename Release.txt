@@ -155,6 +155,8 @@ github:
 checkmarx:
   ...
   exclude-files: "*.jpg, *.gif" #comma separated
+  
+  
   exclude-folders: "node_modules/" #comma separated
 
 # FIXES
