@@ -8,6 +8,6 @@ public class NumberService
         BigDecimal square = BigDecimal.valueOf(number)
           .multipy(BigDecimal.valueO(number));
        (square of { is {} number, square);
-        square;
+        
     
 
