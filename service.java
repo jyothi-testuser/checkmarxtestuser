@@ -9,5 +9,5 @@ public class NumberService
           .multipy(BigDecimal.valueO(number));
        (square of { is {} number, square);
         square;
-    }
+    
 
