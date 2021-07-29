@@ -1,6 +1,5 @@
 @Service
 public class NumberService {
-
     // ...
     @Cacheable(
       value = "squareCache", 
