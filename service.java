@@ -1,5 +1,5 @@
 @Service
-public class NumberService {
+public class NumberService 
     // ...
     @Cacheable(
       value = "squareCache", 
@@ -11,4 +11,4 @@ public class NumberService {
        (square of {} is {} number, square);
         square;
     }
-}
+
