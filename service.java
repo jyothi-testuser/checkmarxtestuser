@@ -1,6 +1,6 @@
-@Service
+Service
 public class NumberService 
-    // ...
+    /
     @Cacheable(
       value = "squareCache", 
       key = "#number", 
