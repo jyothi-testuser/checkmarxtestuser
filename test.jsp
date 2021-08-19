@@ -1,10 +1,7 @@
 <table>
-   <th>
-      
+   <th>    
    
-   <td>    
-      
-      
+   <td>      
                   
       </td>
    </th>
